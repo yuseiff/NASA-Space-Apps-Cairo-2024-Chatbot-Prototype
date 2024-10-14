@@ -1,0 +1,127 @@
+ConsiderationID,ChallengeID,Consideration
+1,1,
+2,1,"The tool partcipants develop will run in a web browser, requiring the web page and associated code to be hosted on a server.2"
+3,1,"Not everyone will want to create an online account to use your tool, so login credentials could be handled through third partie"
+4,2,1
+5,2,video accessible to everyone.2
+6,2,"present information about Artemis II in a new way "" Creatvity"".3"
+7,2,There may be multiple impacts that affect you and
+8,2,or your community. Consider focusing on one or two that are the most important to you.
+9,3,1
+10,3,Geologists could use the app to advance geological research or to predict and
+11,3,"or respond to disasters. Feel free to go “boulder,” as long as your solution features Earth’s geology! 2"
+12,3,"Note: Check challnge link, there are many usful resources might benfit you there!"
+13,4,1
+14,4,"A model in a space biology “model zoo” uses an existing dataset of thousands of different RNA sequencing biomedical studies. Such a model could be leveraged for any combination of space biology RNA sequencing datasets in the NASA Open Science Data Repository (OSDR) (see Resources tab). However, OSDR has many different data types and it would be useful for the public, multi modal datasets and biological questions.
+2"
+15,4,"Additionally, it might be interesting to use different transfer learning model architectures to create the model zoo, and note the resulting effects."
+16,5,1
+17,5,"T he submissions will be judged by NASA experts based on creativity, innovation, and clarity.2"
+18,5,"All NASA SAR data are publicly available, but you will need to register for an Earthdata Login Profile (see Resources) for access.3"
+19,5,"Beginner SAR users may start with the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) postcards, while more advanced users can explore the UAVSAR and NASA Earthdata search (see Resources)."
+20,6,1
+21,6,"Level 1 data: The Quantaties that measured by DSCOVR. 
+2"
+22,6,Level 2 data: When DSCOVR measures wrong values and then switches to a backup weather station rather than attempting to recalibrate or mitigate the error to produce the level 2 data accurately.
+23,7,
+24,7,Understanding Earth
+25,7,Sun
+26,7,Moon alignment is crucial for lunar and solar eclipse differences.
+27,7,"Perspective, object distances, affects eclipse types: partial or total."
+28,7,Earth's axis and Moon's orbit tilt change shadow placement.
+29,8,#NAME?
+30,9,
+31,9,"Your target audience can include elementary, middle, or high school students—or students at multiple levels!"
+32,9,Storytelling via data visualizations.
+33,9,Depict climate change impact.
+34,9,Explore human impacts on freshwater and climate.
+35,10,
+36,10,The BioSCape domain has a rectangular latitude
+37,10,"longitude bounding box (WGS84) of:
+xmin=16.2, ymin="
+38,10,"35.56, xmax=27.76, ymax="
+39,10,"27.72.
+
+Tips for EMIT data:"
+40,10,EMIT Imaging Spectroscopy data (2022 launch) needs pre
+41,10,processing.
+42,10,NASA's EMIT Data Tutorial Series
+43,11,Consider beyond higher accuracy:
+44,11,"Metrics: Reduce labeled data, save time, and resources."
+45,11,"Data: Use existing datasets, prioritize efficiency."
+46,11,Fine
+47,11,"Tuning: Use available tools, optimize within constraints."
+48,11,"Tooling: Utilize cloud resources, design scalable models."
+49,11,Ethics: Mind societal
+50,11,"environmental impacts, mitigate bias."
+51,11,"Security: Comply with laws, protect sensitive data, respect privacy."
+52,12,#NAME?
+53,13,The spirit of this challenge is about innovatively communicating three
+54,13,dimensional information
+55,13,develop a hybrid visual
+56,13,"sonified product, as long as the audio portion conveys enough of the data content"
+57,13,A strong solution would include at least one example of an original sonification
+58,13,An interesting add
+59,13,"on could be a visualization of the sonified data itself! For example, if you convert an image to a sound wave, the visualization"
+60,14,1
+61,14,VISIONS has well
+62,14,"written, readable code and a maintainable architecture. 2"
+63,14,Creating project by adding data or an analysis feature to VISIONS.3
+64,14,"Submitting project, should include the source code
+4"
+65,14,"If the service itself replies but the app is not producing the expected data, check the VISIONS service documentation or consider substituting deprecated services with currently functional data sources. The Resources section contains lists of example data sources and application programming interfaces (APIs). 3"
+66,14,"Publishing a live version of your project is optional, but desirable.(AWS)
+If you're really confident in your work,"
+67,15,explaination of  the results of analysing when read a large set of interplanetary magnetic field data from NASA databases and developing a computer program to analyze this data
+68,16,1
+69,16,"The app you develop will run in a web browser, so the web page and associated code will be hosted on a server. 2"
+70,16,Locate free code libraries for developing web apps that can present interactive 3
+71,16,D models   3
+72,16,"selecting a code library, create a web app that presents a sphere 4"
+73,16,"Studio Computer Generated Imagery (CGI) Moon Kit, which provides images of the Moon in various sizes 5"
+74,16,Use the links to the Apollo Seismic Event Catalog provided in the Resources section to access a directory of Comma Separated Value (CSV) files 6
+75,16,Plotting time
+76,16,series data of moonquakes. 7
+77,16,Adding an adjustable rotation rate of the 3D digital globe. 8
+78,16,imulating sunrise and sunset to produce a day
+79,16,night terminator line on the 3D digital globe 9
+80,16,"Overlaying other data sets onto the 3D digital globe to depict features such as topography, fault lines along wrinkle ridges, or mineral composition observed from orbiting satellites"
+81,17,"Address accessibility and training needs of rural communities through alternative data distribution methods (drones, radio stations, etc.).                                                                                                                                                                           Expand the solution to protect other resources, ensure water quality, enable forest management, and detect invasive species.                                                                                                                 Develop adaptable API code and libraries, and consider privacy protection of data collectors and alternative alert systems in the absence of email availability."
+82,18,#NAME?
+83,19,1
+84,19,making a town unique in terms of environment or people
+85,19,2 . Coding skills and special computer programs are required to use a lot of satellite data . 3
+86,19,"participant may have to expand Their studies
+ area to match the available information if they   find that the spatial resolution, or the smallest “area unit” of data available . 4"
+87,19,participants should be a ceriative  When thay consider how to communicate their outcomes  and  thinking about who might be able to use this information
+88,20,1
+89,20,Different species of phytoplankto . 2
+90,20,Different areas of the ocean:. 3
+91,20,Satellite images show a variety of these ‘ocean gardens
+92,21,1
+93,21,Think broadly when choosing the community you will highligh .2
+94,21,Considering how the impact of open science can be communicated to the public. 3
+95,21,A solution need not be applicable to all facets of NASA science. .4
+96,21,
+97,22,participants story does not have to include all aspects of open science 2
+98,22,including just one aspect is fine! Open science encompasses all steps of the scientific workflow 3
+99,22,looking at the NASA TOPS Open Science 101 curriculum . It consists of five individual modules that roughly align with a scientific workflow: the Ethos of Open Science
+100,23,
+101,23,"Consider potential participants’ ability levels and languages, party costs, etc."
+102,23,"Can everything be accessed online, be downloaded, or be created using everyday household materials and tools?"
+103,23,Can you provide options that are “high
+104,23,"tech, low"
+105,23,tech
+106,24,"he scope, implementation method, and complexity of the tool you develop is at your discretion. Your tool could be elaborate or simple."
+107,25,"Search NASA OSDR for C. elegans datasets under ""Worm"" filter.                                                                                                                              Identify and preprocess diverse datasets for model input.                                                              Integrate additional data, validate model, and create project roadmap with milestones."
+108,26,Analyze and suggest improvements to NASA standard NASA
+109,26,Standard
+110,26,"5018. Use any software for development, considering NASA judges' limitations. Utilize resources mentioned or beyond, describe process, submit source code, and ensure unaltered app output."
+111,27,"Design a game set on any icy moon or planet, with no limitations on creativity. Choose any game type and player format. Consider risks based on lunar, Mars, and Titan exploration. For a digital game, create a web application for global accessibility. Access relevant data and resources for the challenge."
+112,28,"Beginner Level:Use GMAT or design 3D elliptical orbit                                                                                                                                       Resources: Tutorial series, explore 3D graphics libraries                                                                                                                   Intermediate Level: Visualize orbital trajectories on digital globe                                                                                                                                                          Resources: NASA's Web WorldWind, search for free digital globes                                                                          Advanced Level:Create virtual orrery, design deep space missions                                                                                                                                                                                                                                                                                                                       
+ Resources: Include asteroid belt, slingshot maneuvers, Web"
+113,28,"based Space Mission Visualization System, upload trajectory data"
+114,29,Location: App scope
+115,29,"single location or multiple locations                                                                                                                           Timeline: Frequency and prioritization of water quality observations.                                                                                   
+Sunscreen Impact: Assess the ecological effects of sunscreen ingredients.                                                                                                                                                                                                                                 App Tone: Decide the balance between informative and informal content, including fun facts to engage users."
+116,30,#NAME?
