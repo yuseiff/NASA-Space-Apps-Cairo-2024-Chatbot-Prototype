@@ -1,41 +1,58 @@
-# NASA Space Apps Cairo 2024 Chatbot Prototype
 
-## Overview
+# NASA Space Apps Cairo 2024 Chatbot
 
-This project is a prototype of a chatbot developed to assist participants in understanding the challenges presented during the NASA Space Apps Cairo 2024. The chatbot leverages a MySQL database to store challenge-related information and uses natural language processing to interact with users effectively.
+## Project Overview
 
-## Key Features
+This project is a chatbot developed to assist participants in understanding the challenges presented during the NASA Space Apps Hackathon Cairo 2024. The chatbot interacts with users to provide information about various challenges, potential considerations, and outcome topics using a MySQL database.
 
-- **Database Integration**: The chatbot connects to a MySQL database containing detailed information about the challenges.
-- **Natural Language Processing**: Utilizes language models to understand user queries and generate appropriate responses.
-- **Speech Recognition**: Allows users to interact with the chatbot via voice commands, enhancing accessibility.
+## Features
+
+- **Natural Language Processing**: Utilizes LangChain for processing user queries and generating relevant responses.
+- **Speech Recognition**: Supports voice input for user queries.
+- **Database Integration**: Connects to a MySQL database to fetch challenge-related data dynamically.
+
+## Technology Stack
+
+- **Python**: The primary programming language.
+- **Streamlit**: For creating the web interface.
+- **MySQL**: For managing challenge data.
+- **LangChain**: For handling natural language processing tasks.
+- **SpeechRecognition**: For converting speech to text.
 
 ## Files Included
 
-- **`chatbot.py`**: Main application file containing the chatbot logic and user interface built with Streamlit.
-- **`database.sql`**: SQL script to create the necessary database schema for storing challenge data.
-- **`data_processing.py`**: Script for processing challenge data and inserting it into the database.
-- **`Test.py`**: Test file for verifying the chatbot functionality.
-- **`mentors analysis.ipynb`**: Jupyter notebook for analyzing mentor data.
-- **`readme.md`**: Documentation file providing an overview of the project.
+- `chatbot.py`: The main application file containing the chatbot logic.
+- `Test.py`: A test file for the chatbot interface.
+- `modified_database.sql`: SQL script to set up the database schema and tables.
+- `mentors_analysis.ipynb`: Jupyter notebook for analyzing mentor schedules.
+- `Challanges Explanation.csv`: CSV file containing challenge details for database population.
+- `mentors' System - Timetable.csv`: CSV file with mentor timetable data.
+
+## How to Run the Project
+
+1. **Install Dependencies**:
+   Make sure you have Python installed, then run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Set Up the Database**:
+   Execute the `modified_database.sql` script in your MySQL server to create the necessary tables.
+
+3. **Run the Application**:
+   ```bash
+   streamlit run chatbot.py
+   ```
+
+4. **Access the Chatbot**:
+   Open your browser and go to `http://localhost:8501` to interact with the chatbot.
 
 ## Contribution
 
-I contributed to developing the chatbot prototype as a member of the competition team for NASA Space Apps Cairo 2024. This chatbot was designed to help participants navigate the various challenges and enhance their experience during the event.
+I contributed to developing this chatbot during my participation as a competition team member in the NASA Space Apps Cairo 2024 event. My role involved:
 
-## Prototype Status
+- Designing and implementing the chatbot's logic.
+- Integrating the chatbot with the MySQL database to retrieve challenge information.
+- Ensuring a user-friendly interface for participants.
 
-Please note that this project is currently a prototype and may require further enhancements and testing for full functionality.
-
-## Getting Started
-
-To run the chatbot, ensure you have the required dependencies installed and set up your MySQL database with the provided SQL script.
-
-1. Clone the repository.
-2. Set up the database using `database.sql`.
-3. Install the necessary Python packages (Streamlit, MySQL connector, etc.).
-4. Run `chatbot.py` to start the chatbot interface.
-
-## License
-
-This project is licensed under the MIT License.
+**[Youssef Husseiny](https://github.com/yuseiff) - NASA Space Apps Cairo Competition Team 2024**
