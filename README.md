@@ -1,6 +1,6 @@
 
 # NASA Space Apps Cairo 2024 Chatbot
-
+![Image](https://github.com/user-attachments/assets/c4c26111-6a7b-434c-9acd-a2a7708bc423)
 ## Project Overview
 
 This project is a chatbot developed to assist participants in understanding the challenges presented during the NASA Space Apps Hackathon Cairo 2024. The chatbot interacts with users to provide information about various challenges, potential considerations, and outcome topics using a MySQL database.
